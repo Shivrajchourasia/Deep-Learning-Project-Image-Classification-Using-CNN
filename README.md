@@ -71,9 +71,10 @@ This project demonstrates the power of CNNs for solving image classification pro
 ## ⚙️ Installation
 
  Clone this repo:
-   ```bash
+   
    git clone https://github.com/Shivrajchourasia/image-classification-cnn.git
    cd image-classification-cnn
+---
 
 
 ## 🧑‍💻 Author
