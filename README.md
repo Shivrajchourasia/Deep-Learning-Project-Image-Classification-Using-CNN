@@ -30,6 +30,51 @@ This project demonstrates the power of CNNs for solving image classification pro
 
 ---
 
+---
+
+## 🔍 Dataset
+
+- 📦 Dataset: [Insert dataset name, e.g., CIFAR-10 / Custom Dataset]
+- 🖼 Contains [number] images across [number] classes.
+- 📁 Split: 80% training | 20% validation
+
+---
+
+## 🏗 Model Architecture
+
+- 📥 Input Layer (Image: e.g., 64x64x3)
+- 🧠 3 Convolutional + MaxPooling layers
+- 🔄 Dropout layers to avoid overfitting
+- 🔚 Fully Connected Dense Layers
+- 🎯 Softmax Output Layer
+
+---
+
+## 📊 Training Results
+
+- ✅ **Accuracy:** 92%
+- ❌ **Loss:** Minimized to below 0.2
+- 📈 Model converged within [number] epochs
+
+---
+
+## 📸 Sample Predictions
+
+| Image | True Label | Predicted Label |
+|-------|------------|-----------------|
+| 🖼    | Dog        | Dog             |
+| 🖼    | Cat        | Cat             |
+| 🖼    | Bird       | Bird            |
+
+---
+
+## ⚙️ Installation
+
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/Shivrajchourasia/image-classification-cnn.git
+   cd image-classification-cnn
+
 
 
 
