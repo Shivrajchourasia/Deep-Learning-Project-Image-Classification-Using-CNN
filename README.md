@@ -30,5 +30,6 @@ This project demonstrates the power of CNNs for solving image classification pro
 
 ---
 
-## 📂 Project Structure
+
+
 
