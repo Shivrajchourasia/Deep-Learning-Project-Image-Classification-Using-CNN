@@ -12,6 +12,7 @@ This project demonstrates the power of CNNs for solving image classification pro
 
 ## 🚀 Key Features
 
+
 - ✅ Built using TensorFlow and Keras
 - 📈 Achieved **92% accuracy** on validation set
 - 🔁 Includes **data augmentation** to reduce overfitting
@@ -80,7 +81,7 @@ This project demonstrates the power of CNNs for solving image classification pro
 ## 🧑‍💻 Author
 
 **Shivraj Chourasia**  
-📧 [work.shivraj.chourasia@gmail.com](mailto:work.shivraj.chourasia@gmail.com)  
+
 🔗 [LinkedIn](https://linkedin.com/in/shivraj-chourasia-917310344)  
 💻 [GitHub](https://github.com/Shivrajchourasia)
 
